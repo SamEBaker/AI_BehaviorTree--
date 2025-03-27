@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7d7cbe1c79a186240a16e2231e2df819
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 311643
+  packageName: Goblin LowPoly - Animation
+  packageVersion: 1.0
+  assetPath: Assets/Goblin_Character/Material/MTL_COLORS_HDRP.mat
+  uploadId: 734482
